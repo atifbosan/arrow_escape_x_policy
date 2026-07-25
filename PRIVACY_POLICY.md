@@ -76,25 +76,14 @@ The Game does not use third-party services or software development kits for:
 
 No third party receives user data from the Game because the Game does not collect or transmit user data.
 
-## 7. Advertising
 
-The Game does not display advertisements and does not use advertising or tracking services.
-
-We do not use your activity for targeted advertising, cross-app tracking, profiling, or marketing.
-
-## 8. In-App Purchases
-
-The current version of the Game does not offer in-app purchases or paid subscriptions.
-
-We do not collect or process payment information.
-
-## 9. Device Permissions
+## 7. Device Permissions
 
 The Game does not request access to personal or sensitive device information such as your location, contacts, camera, microphone, photos, or media library for its core functionality.
 
 Standard device features such as audio playback and haptic feedback may be used only to provide gameplay effects and do not provide us with personal information.
 
-## 10. Data Sharing and Sale
+## 8. Data Sharing and Sale
 
 We do not:
 
@@ -107,7 +96,7 @@ We do not:
 
 Because we do not collect personal information, there is no personal information available for us to sell or share.
 
-## 11. Data Retention and Deletion
+## 9. Data Retention and Deletion
 
 We do not retain personal information on any server or remote database.
 
@@ -115,7 +104,7 @@ Game progress, settings, and custom levels are stored locally on your device. Yo
 
 Because we do not maintain accounts or server-side user records, there is no remote personal data for us to access, export, correct, or delete.
 
-## 12. Children’s Privacy
+## 10. Children’s Privacy
 
 The Game does not knowingly collect personal information from children or adults.
 
@@ -123,23 +112,12 @@ Because the Game does not collect, transmit, or share personal information, we d
 
 A parent or guardian who believes that personal information has been provided to us may contact us using the details below. We will review the request, although the Game does not provide a mechanism for transmitting such information to us.
 
-## 13. Security
+## 11. Security
 
 The Game does not transmit or store personal information on our servers.
 
 Locally stored game progress and settings are protected by the security controls of your device and operating system. You are responsible for maintaining the security of your device.
-
-## 14. External Links
-
-The Game or its store listing may contain links to external pages, such as a support page, privacy policy page, or app-store page.
-
-We are not responsible for the privacy practices, content, or security of external websites or services. Any information you provide directly to an external website is governed by that website’s own privacy policy.
-
-## 15. International Users
-
-Arrow Escape X is available to users in different countries and regions. Regardless of where you use the Game, we do not collect, transmit, store, sell, or share your personal information.
-
-## 16. Changes to This Privacy Policy
+## 12. Changes to This Privacy Policy
 
 We may update this Privacy Policy if the Game’s features or privacy practices change.
 
@@ -147,12 +125,12 @@ When we update the policy, we will revise the **Last updated** date at the top o
 
 We encourage you to review this page periodically for updates.
 
-## 17. Contact Us
+## 13. Contact Us
 
 For questions or concerns about this Privacy Policy or Arrow Escape X, contact:
 
-**Developer/Publisher:** [Enter your legal developer or company name]  
-**Email:** [Enter your support email address]  
+**Developer/Publisher:** Muhammad Atif
+**Email:** atifbosan63@gmail.com
 **Support page:** [Enter your public support URL, if available]
 
 ---
