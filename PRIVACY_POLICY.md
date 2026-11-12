@@ -1,18 +1,18 @@
-# Privacy Policy for Arrow Escape X: Tap Away Game
+# Privacy Policy for Arrow Escape
 
 **Effective date:** October 2, 2026  
-**Last updated:** October 2, 2026
+**Last updated:** November 12, 2026
 
 ## 1. Introduction
 
-This Privacy Policy explains how **Arrow Escape X: Tap Away Game** (also referred to as **“Arrow Escape X,” “the Game,” “we,” “our,”** or **“us”**) handles information when you use the Game.
+This Privacy Policy explains how **Arrow Escape** on Google Play (package `com.bosantechub.arrowescapex`) and **Arrow Escape X: Tap Away Game** on the Apple App Store (together, **“Arrow Escape,” “Arrow Escape X,” “the Game,” “we,” “our,”** or **“us”**) handle information when you use the Game.
 
 Arrow Escape X is designed so that its core gameplay works offline and does not require an account. We, the developer, do not collect, store, sell, or rent your personal information, and we do not operate any servers for the Game.
 
 The Game does include two third-party services:
 
 - **Google AdMob**, which shows ads to free users, and
-- **Apple’s In-App Purchase system**, which handles the optional Premium subscription.
+- **Google Play Billing** (on Android) or **Apple’s In-App Purchase system** (on iOS), which handles optional purchases such as the Premium subscription.
 
 These services may process limited data as described in Sections 6 and 7.
 
@@ -32,7 +32,7 @@ We do not receive or store information such as:
 - Health or fitness information
 - Any other personally identifiable information
 
-Data processed by Google AdMob and Apple is described in Sections 6 and 7.
+Data processed by Google AdMob, Google Play, and Apple is described in Sections 6 and 7.
 
 ## 3. Offline Gameplay and Local Game Data
 
@@ -71,7 +71,9 @@ Free users of the Game see ads served by **Google AdMob**: interstitial ads, app
 
 When an ad is requested or shown, the Google Mobile Ads SDK may automatically collect and process the following data. This data goes directly to Google, not to us:
 
-- **Device identifiers**, such as the identifier for vendors. The advertising identifier (IDFA) is not available to the Game, because the Game does not request App Tracking Transparency permission.
+- **Device identifiers**:
+  - **On Android**, the Android Advertising ID. You can reset or delete it at any time in your device settings (Settings → Privacy → Ads, or Settings → Google → Ads, depending on your device).
+  - **On iOS**, the identifier for vendors. The advertising identifier (IDFA) is not available to the Game, because the Game does not request App Tracking Transparency permission.
 - **Approximate (coarse) location**, derived from your IP address
 - **Advertising data**, such as which ads were shown or tapped
 - **Product interaction data**, such as app launches and ad interactions
@@ -88,30 +90,35 @@ Google uses this data to deliver and measure ads, prevent fraud, and improve its
 - Google Privacy Policy: https://policies.google.com/privacy
 - How Google uses information from apps that use its services: https://policies.google.com/technologies/partner-sites
 
-## 7. In-App Purchases and Subscriptions (Apple)
+## 7. In-App Purchases and Subscriptions (Google Play and Apple)
 
-Arrow Escape X offers an optional auto-renewable subscription, **Arrow Escape X Premium**, which removes ads and unlocks unlimited Text-to-Level creations:
+The Game may offer an optional auto-renewable subscription, **Arrow Escape X Premium**, which removes ads and unlocks unlimited Text-to-Level creations. Available plans can differ by store and are shown in the Game before you buy, for example:
 
 - **Premium Monthly** – renews every month
 - **Premium 6 Months** – renews every 6 months
 
 Terms of the subscription:
 
-- All purchases are processed by **Apple** through the App Store. We never receive or store your payment details.
-- Payment is charged to your Apple Account when you confirm the purchase.
+- **On Android**, purchases are processed by **Google Play Billing**. **On iOS**, purchases are processed by **Apple** through the App Store. We never receive or store your payment details.
+- Payment is charged to your Google Play or Apple account when you confirm the purchase.
 - The subscription renews automatically unless it is cancelled at least 24 hours before the end of the current period.
 - Your account is charged for renewal within 24 hours before the end of the current period.
-- You can manage or cancel your subscription at any time in your Apple Account settings.
+- You can manage or cancel your subscription at any time:
+  - **Google Play:** Play Store app → Profile → Payments & subscriptions → Subscriptions
+  - **Apple:** Settings → your name → Subscriptions
 
-The Game only checks with Apple whether your subscription is active, so that it can unlock Premium features on your device. Apple’s handling of purchase data is described in Apple’s Privacy Policy: https://www.apple.com/legal/privacy/
+The Game only checks with Google Play or Apple whether your purchase or subscription is active, so that it can unlock Premium features on your device. How they handle purchase data is described in their own privacy policies:
 
-Use of the Game and of Premium is governed by Apple’s Standard End User License Agreement:
+- Google Privacy Policy: https://policies.google.com/privacy
+- Apple Privacy Policy: https://www.apple.com/legal/privacy/
 
-**Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/**
+Use of the Game and of Premium is governed by our [Terms of Service](TERMS_OF_SERVICE.md). On iOS, Apple’s Standard End User License Agreement also applies:
+
+**Apple Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/**
 
 ## 8. Other Third-Party Services
 
-Apart from Google AdMob (Section 6) and Apple In-App Purchase (Section 7), the Game does not use third-party services or software development kits for:
+Apart from Google AdMob (Section 6) and Google Play Billing or Apple In-App Purchase (Section 7), the Game does not use third-party services or software development kits for:
 
 - Analytics
 - User tracking
@@ -138,7 +145,7 @@ We do not:
 - Use personal information for tracking
 - Transfer personal information to our servers
 
-Apart from the processing by Google AdMob and Apple described above, no data from the Game is shared with third parties.
+Apart from the processing by Google AdMob, Google Play, and Apple described above, no data from the Game is shared with third parties.
 
 ## 11. Data Retention and Deletion
 
@@ -146,7 +153,7 @@ We do not retain personal information on any server or remote database.
 
 Game progress, settings, and custom levels are stored locally on your device. You can remove locally stored game data by clearing the Game’s app data through your device settings or by uninstalling the Game. Removal may be subject to your device operating system and backup settings.
 
-Data processed by Google AdMob is retained according to Google’s policies. Purchase records are kept by Apple according to Apple’s policies.
+Data processed by Google AdMob is retained according to Google’s policies. Purchase records are kept by Google Play or Apple according to their policies.
 
 ## 12. Children’s Privacy
 
@@ -166,31 +173,32 @@ Locally stored game progress and settings are protected by the security controls
 
 We may update this Privacy Policy if the Game’s features or privacy practices change.
 
-When we update the policy, we will revise the **Last updated** date at the top of this page and update the App Store privacy details when that change is released.
+When we update the policy, we will revise the **Last updated** date at the top of this page and update the Google Play Data safety section and the App Store privacy details when that change is released.
 
 We encourage you to review this page periodically for updates.
 
 ## 15. Contact Us
 
-For questions or concerns about this Privacy Policy or Arrow Escape X, contact:
+For questions or concerns about this Privacy Policy or the Game, contact:
 
-**Developer/Publisher:** Muhammad Atif  
+**Developer/Publisher:** Muhammad Atif (TeraBit Tech)  
 **Email:** atifbosan63@gmail.com  
-**Support page:** https://terabittech.blogspot.com
+**Support page:** https://terabittech.blogspot.com  
+**Terms of Service:** [TERMS_OF_SERVICE.md](TERMS_OF_SERVICE.md)
 
 ---
 
 ## Privacy Summary
 
-| Privacy practice | Arrow Escape X |
+| Privacy practice | Arrow Escape |
 |---|---|
 | Personal data collected by the developer | None |
-| Third-party services | Google AdMob (ads), Apple In-App Purchase (subscriptions) |
-| Data processed by AdMob | Device ID, approximate location, advertising and usage data, diagnostics; not linked to your identity |
+| Third-party services | Google AdMob (ads); Google Play Billing (Android) or Apple In-App Purchase (iOS) for purchases |
+| Data processed by AdMob | Device or advertising ID, approximate location, advertising and usage data, diagnostics; not linked to your identity |
 | User tracking | None |
 | Advertising | Non-personalized ads for free users; no ads for Premium |
-| Subscriptions | Optional, auto-renewing, managed by Apple |
-| Terms of Use (EULA) | https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ |
+| Subscriptions | Optional, auto-renewing, managed by Google Play or Apple |
+| Terms of Service | [TERMS_OF_SERVICE.md](TERMS_OF_SERVICE.md); on iOS also Apple’s standard EULA |
 | Account required | No |
 | Internet required for core gameplay | No |
 | Custom-level data uploaded | No |
